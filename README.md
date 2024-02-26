@@ -48,8 +48,8 @@ For a comprehensive understanding of each protocol's implementation, refer to th
 
 Please see Below Images for Loss Probability from L = 0.2 to 0.8
 
-1. ![loss probability of 0.2](images/L02.png)
-2. ![loss probability of 0.5](images/L05.png)
-3. ![loss probability of 0.8](images/L08.png)
+1. ![loss probability of 0.2](images/L_02.png)
+2. ![loss probability of 0.5](images/L_05.png)
+3. ![loss probability of 0.8](images/L_08.png)
 
    for more analysis go to [PA2.pdf](/PA2.pdf)
